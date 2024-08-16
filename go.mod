@@ -1,4 +1,4 @@
-module github.com/asavie/xdp
+module github.com/snowfirewolf/xdp
 
 go 1.21
 
